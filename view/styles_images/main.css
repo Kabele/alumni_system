@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+.header{ color:white; font-family:"Georgia"; background-color:rgb(00,34,66); font-size:22px; padding:6px;}
+.topSearch{ background-color:#f2d244; font-family:"Georgia"; font-size:14px; padding:6px; text-align:right;}
+.mainContent {margin-left:auto; margin-right:auto; width:50%; font-family:"Verdana"; font-size:19px; font-weight:bold; padding:6px;}
+.pageTitle {font-family:"Verdana"; font-size:17px; padding:5px;}
+.subTitle {font-family:Verdana, Geneva, sans-serif; font-size:15px; background-color:#E8E8E8; padding:3px;}
+footer{ font-family:"Georgia"; font-style:italic; font-size:15px; text-align:center; padding-top:30px; }
+.loginContent {font-family:"Georgia"; text-align:right; border:solid thin black; width:20%; margin-left:auto; margin-right:auto; margin-top:70px; padding-top:100px; padding-left:100px; padding-right:30px; padding-bottom:40px; background-image: url(hawk.jpg); background-repeat:no-repeat;}
+.existingUser {padding-top:5px; text-align:center; font-size:14px;}
+.register a:link {list-style-type:none; }
+.formContent{font-family:"Georgia"; font-size:14px; width:40%; margin-left:auto; margin-right:auto; padding-left:10px;}
+
+.formSubTitle {font-weight:bold;}
+legend {margin-right:20px; padding-top:10px; }
+.regPageTitle {text-align:center; font-size:18px; font-family:Verdana, Geneva, sans-serif; font-weight:bold;}
+.regPageSubTitle {text-align:center; font-size:16px; font-family:Verdana, Geneva, sans-serif; font-weight:bold; text-decoration:underline;}
+.register {position:relative; left:270px;}
+.menuItem li {padding-right:10px; text-decoration:underline; text-align:right; display:inline; right:97%; font-family:Verdana, Geneva, sans-serif; font-size:13px;  }
+.menuItem a, a:visited {text-decoration:none; font:Verdana, Geneva, sans-serif,}
+.topMenu{position:absolute; left:75%;}
+.invalidLogin{ color:red; font:Verdana, Geneva, sans-serif; position:absolute; left:500px; top:400px;}
+.pageContentTitle {text-align:center; font-size:18px; font-family:Verdana, Geneva, sans-serif; font-weight:bold;}
+.pageContentSubTitle {text-align:center; font-size:16px; font-family:Verdana, Geneva, sans-serif; font-weight:bold; text-decoration:underline;}
+.updateContent {font-family:"Verdana"; width:40%; margin-left:auto; margin-right:auto; padding-left:10px;}
+.formSubTitle {font-weight:bold;}
+.personalMenu li{font:Verdana, Geneva, sans-serif; text-decoration:underline; padding-bottom:5px; font-weight:100; font-size:14px;}
+.personalSubTitle {font:Verdana, Geneva, sans-serif; font-size:16px; font-weight:bold;}
+.personal {margin-left:auto; margin-right:auto; width:50%; padding:3px;}
+.personalTitle {font:Verdana, Geneva, sans-serif; font-weight:bold; font-size:19px;}
+
+form.mainForm {margin-left:auto; margin-right:auto;}
+form.mainForm fieldset {margin-bottom: 10px;}
+form.mainForm legend {padding: 0 2px;font-weight: bold;}
+form.mainForm label {display: inline-block;line-height: 1.8;vertical-align: top;}
+form.mainForm fieldset ol {margin: 0;padding: 0;}
+form.mainForm fieldset li {list-style: none;padding: 5px;margin: 0;}
+form.mainForm fieldset fieldset {border: none;margin: 3px 0 0;}
+form.mainForm fieldset fieldset legend {padding: 0 0 5px;font-weight: normal;}
+form.mainForm fieldset fieldset label {display: block; width: auto;}
+form.mainForm em {font-weight: bold; font-style: normal; color: #f00;}
+form.mainForm label {width: 120px; padding-left:50px; padding-right:75px; /* Width of labels */}
+form.mainForm fieldset fieldset label {margin-left: 123px; /* Width plus 3 (html space) */}
+
+.main{width:50%; margin-right:auto; margin-left:auto;}
+
